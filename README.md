@@ -20,5 +20,5 @@ Enjoy !!
 This project was developed as part of our Cloud of Things project at Sup'Com.
 
 <a href="https://github.com/medamine454">
-  <img src="https://contrib.rocks/image?repo=GhaziXX/Home-Automation-using-CoT" width=100/>
+  <img src="https://avatars.githubusercontent.com/u/72911952?v=4" width=100/>
 </a>
