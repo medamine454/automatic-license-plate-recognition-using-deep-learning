@@ -15,3 +15,10 @@ Enjoy !!
 ## Some Results
 ![Result1](Results/sm.png)
 ![Result2](Results/N35.jpeg)
+
+## Contribution
+This project was developed as part of our Cloud of Things project at Sup'Com.
+
+<a href="https://github.com/medamine454">
+  <img src="https://contrib.rocks/image?repo=GhaziXX/Home-Automation-using-CoT" width=100/>
+</a>
