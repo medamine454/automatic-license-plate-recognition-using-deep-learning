@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images only</folder>
+	<filename>N21.jpeg</filename>
+	<path>C:\Users\Lenovo\Desktop\INDP3\Project_Files\images only\N21.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plaque_imm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>226</ymin>
+			<xmax>400</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
