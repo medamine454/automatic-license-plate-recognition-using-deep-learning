@@ -13,5 +13,5 @@ Automated license plate recognition, also known as ANPR (Automatic Number Plate 
 Enjoy !!
 
 ## Some Results
-![home page](Results/sm.png)
-![home page](Results/N35.jpeg)
+![Result1](Results/sm.png)
+![Result2](Results/N35.jpeg)
