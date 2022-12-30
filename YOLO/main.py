@@ -134,8 +134,6 @@ net.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
 
 cap = cv2.VideoCapture(0)
 #cap = cv2.VideoCapture("C:/Users/Lenovo/Desktop/INDP3/Project_Files/YOLO/test_images/video.mp4")
-fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640,  480))
 while True:
     ret, frame = cap.read()
 
@@ -144,7 +142,6 @@ while True:
         break
 
     results = yolo_predictions(frame, net)
-    out.write(results)
     cv2.namedWindow('YOLO', cv2.WINDOW_KEEPRATIO)
     cv2.imshow('YOLO', results)
     if cv2.waitKey(1) & 0xFF == ord('q'):
